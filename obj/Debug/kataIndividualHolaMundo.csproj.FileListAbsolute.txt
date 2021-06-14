@@ -1,0 +1,7 @@
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\bin\Debug\kataIndividualHolaMundo.exe.config
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\bin\Debug\kataIndividualHolaMundo.exe
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\bin\Debug\kataIndividualHolaMundo.pdb
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\obj\Debug\kataIndividualHolaMundo.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\obj\Debug\kataIndividualHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\obj\Debug\kataIndividualHolaMundo.exe
+C:\Users\Mario\Desktop\tendencias de aplic\kata individual Hola Mundo\kataIndividualHolaMundo\obj\Debug\kataIndividualHolaMundo.pdb
